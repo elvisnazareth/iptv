@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Goa365" group-title="GOA TV",Goa365
+https://5a9fe19ea6821.streamlock.net/goa365/livestream3/chunklist_w408242970.m3u8
+#EXTINF:0 tvg-id="HCN" group-title="GOA TV",HCN GOA
+http://iptv.mstudiosystem.com:1935/hcn/livestream3/chunklist_w2071975686.m3u8
+#EXTINF:0 tvg-id="HCN" group-title="GOA TV",Prudent Media
+https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/chunklist_w2110152999.m3u8
+#EXTINF:0 tvg-id="HCN" group-title="GOA TV",RDX GOA
+http://g5nl6xoalpq6-hls-live.5centscdn.com/1098/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="HCN" group-title="GOA TV",InGoa 24x7
+http://109.236.80.210/ingoa/ingoa/playlist.m3u8
+#EXTINF:0 tvg-id="HCN" group-title="GOA TV",GCTV Goa
+https://5a9fe19ea6821.streamlock.net/gctv/ngrp:livestream_all/chunklist_w10219076_b1349152.m3u8
