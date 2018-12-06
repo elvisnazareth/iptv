@@ -11,7 +11,7 @@ http://g5nl6xoalpq6-hls-live.5centscdn.com/1098/rdxgoa/d0dbe915091d400bd8ee7f27f
 http://109.236.80.210/ingoa/ingoa/playlist.m3u8
 #EXTINF:0 tvg-id="HCN" group-title="GOA TV",GCTV Goa
 https://5a9fe19ea6821.streamlock.net/gctv/ngrp:livestream_all/chunklist_w10219076_b1349152.m3u8
-#EXTINF:0 tvg-id="HCN" group-title="PRIMETV GOA",PrimeTV Goa
+#EXTINF:0 tvg-id="HCN" group-title="GOA TV",PrimeTV Goa
 https://qikstudio.in/primegoa/primegoa/chunks.m3u8
 #EXTINF:0 tvg-id="HCN" group-title="GOA TV",Goa TV
 https://qikstudio.in/gtv/gtv/chunks.m3u8
