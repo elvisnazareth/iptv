@@ -12,6 +12,6 @@ http://109.236.80.210/ingoa/ingoa/playlist.m3u8
 #EXTINF:0 tvg-id="HCN" group-title="GOA TV",GCTV Goa
 https://5a9fe19ea6821.streamlock.net:443/gctv/ngrp:livestream_all/playlist.m3u8
 #EXTINF:0 tvg-id="HCN" group-title="GOA TV",PrimeTV Goa
-https://5a9fe19ea6821.streamlock.net/primetv/livestream/playlist.m3u8
+https://youtu.be/EUsaTKCCBcc
 #EXTINF:0 tvg-id="HCN" group-title="GOA TV",Goa TV
 https://qikstudio.in/gtv/gtv/chunks.m3u8
