@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Goa365" group-title="GOA TV",Goa365
+#EXTINF:0 tvg-id="Goa365" group-title="GOA IPTV",Goa365
 https://5a9fe19ea6821.streamlock.net/goa365/livestream3/chunklist_w408242970.m3u8
-#EXTINF:0 tvg-id="HCN" group-title="GOA TV",HCN GOA
+#EXTINF:0 tvg-id="HCN" group-title="GOA IPTV",HCN GOA
 http://iptv.mstudiosystem.com:1935/hcn/livestream3/chunklist_w2071975686.m3u8
-#EXTINF:0 tvg-id="Prudent TV" group-title="GOA TV",Prudent Media
+#EXTINF:0 tvg-id="Prudent TV" group-title="GOA IPTV",Prudent Media
 http://iptv.mstudiosystem.com:1935/prudentmedia/livestream3/playlist.m3u8
-#EXTINF:0 tvg-id="RDX GOA" group-title="GOA TV",RDX GOA
+#EXTINF:0 tvg-id="RDX GOA" group-title="GOA IPTV",RDX GOA
 http://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="INGOA 24x7" group-title="GOA TV",InGoa 24x7
+#EXTINF:0 tvg-id="INGOA 24x7" group-title="GOA IPTV",InGoa 24x7
 http://109.236.80.210/ingoa/ingoa/playlist.m3u8
-#EXTINF:0 tvg-id="GCTV" group-title="GOA TV",GCTV Goa
+#EXTINF:0 tvg-id="GCTV" group-title="GOA IPTV",GCTV Goa
 https://5a9fe19ea6821.streamlock.net:443/gctv/ngrp:livestream_all/playlist.m3u8
-#EXTINF:0 tvg-id="PrimeTV GOA" group-title="GOA TV",PrimeTV Goa
+#EXTINF:0 tvg-id="PrimeTV GOA" group-title="GOA IPTV",PrimeTV Goa
 https://indsrv.rixcast.com:19360/primegoa/primegoa.m3u8
-#EXTINF:0 tvg-id="GTV" group-title="GOA TV",Goa TV
+#EXTINF:0 tvg-id="GTV" group-title="GOA IPTV",Goa TV
 https://qikstudio.in/gtv/gtv/chunks.m3u8
