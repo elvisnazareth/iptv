@@ -12,6 +12,8 @@ http://109.236.80.210/ingoa/ingoa/playlist.m3u8
 #EXTINF:0 tvg-id="GCTV" group-title="GOA IPTV",GCTV Goa
 https://5a9fe19ea6821.streamlock.net:443/gctv/ngrp:livestream_all/playlist.m3u8
 #EXTINF:0 tvg-id="PrimeTV GOA" group-title="GOA IPTV",PrimeTV Goa
+https://rcdn.rixcast.com/primegoa/primegoa.m3u8
+#EXTINF:0 tvg-id="PrimeTV GOA" group-title="GOA IPTV",PrimeTV Goa 2
 https://indsrv.rixcast.com:19360/primegoa/primegoa.m3u8
 #EXTINF:0 tvg-id="GTV" group-title="GOA IPTV",Goa TV
 https://qikstudio.in/gtv/gtv/chunks.m3u8
