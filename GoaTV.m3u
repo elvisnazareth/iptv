@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Goa365" group-title="GOA IPTV",Goa365
+http://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/chunks.m3u8
+#EXTINF:0 tvg-id="HERALD TV" group-title="GOA IPTV",HERALD TV GOA
+https://heraldtvcdn.rixcast.com/heraldtv.m3u8
+#EXTINF:0 tvg-id="Prudent TV" group-title="GOA IPTV",Prudent Media
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:0 tvg-id="RDX GOA" group-title="GOA IPTV",RDX GOA
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:0 tvg-id="PrimeTV GOA" group-title="GOA IPTV",PrimeTV Goa
+https://rcdn.rixcast.com/primegoa/primegoa.m3u8
+#EXTINF:0 tvg-id="PrimeTV GOA" group-title="GOA IPTV",PrimeTV Goa 2
+https://indsrv.rixcast.com:19360/primegoa/primegoa.m3u8
+#EXTINF:0 tvg-id="CCR TV" group-title="GOA IPTV",CCR TV
+http://ccrtv.livebox.co.in/ccrtvhls/ccrtvlive.m3u8
+#EXTINF:0 tvg-id="GOAN VARTA TV" group-title="GOA IPTV",GOAN VARTA TV
+https://gvlcdn.rixcast.com/gvlive.m3u8
+#EXTINF:0 tvg-id="FM RAINBOW" group-title="GOA RADIO",FM RAINBOW🌈 105.4
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio048/chunklist.m3u8
+#EXTINF:0 tvg-id="FM RAINBOW" group-title="GOA RADIO",AIR Panjim
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/chunklist.m3u8
