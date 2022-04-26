@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:1 tvg-id="Goa365" group-title="GOA IPTV",Goa365
+#EXTINF:0 tvg-id="Goa365" group-title="GOA IPTV",Goa365
 http://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/chunks.m3u8
-#EXTINF:2 tvg-id="HERALD TV" group-title="GOA IPTV",HERALD TV GOA
+#EXTINF:0 tvg-id="HERALD TV" group-title="GOA IPTV",HERALD TV GOA
 https://heraldtvcdn.rixcast.com/heraldtv.m3u8
 #EXTINF:0 tvg-id="Prudent TV" group-title="GOA IPTV",Prudent Media
 https://prudentmcdn.rixcast.com/prudentm.m3u8
