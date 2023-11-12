@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0 tvg-id="FM RAINBOW" group-title="FM RAINBOW🌈", GOA RADIO 105.4
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio048/chunklist.m3u8
+#EXTINF:0 tvg-id="FM RAINBOW" group-title="FM RAINBOW🌈",AIR Panjim
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/chunklist
+#EXTINF:0 tvg-id="FM RAINBOW" group-title="FM RAINBOW🌈",FM Kohima
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/chunklist.m3u8
+#EXTINF:0 tvg-id="FM RAINBOW" group-title="FM RAINBOW🌈",FM Mizoram 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio242/chunklist.m3u8
+#EXTINF:0 tvg-id="FM RAINBOW" group-title="FM RAINBOW🌈",FM Shillong
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/chunklist.m3u8
