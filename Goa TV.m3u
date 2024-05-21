@@ -13,8 +13,8 @@ https://rcdn.rixcast.com/primegoa/primegoa.m3u8
 https://indsrv.rixcast.com:19360/primegoa/primegoa.m3u8
 #EXTINF:0 tvg-id="CCR TV" group-title="GOA IPTV",CCR TV
 http://ccrtv.livebox.co.in/ccrtvhls/ccrtvlive.m3u8
-#EXTINF:0 tvg-id="GOAN VARTA TV" group-title="GOA IPTV",GOAN VARTA TV
-https://gvlcdn.rixcast.com/gvlive.m3u8
+#EXTINF:0 tvg-id="KONKAN SAAD TV" group-title="GOA IPTV",GOAN VARTA TV
+https://sindhudurglivecdn.rixcast.com/sindhudurglive.m3u8
 #EXTINF:0 tvg-id="FM RAINBOW" group-title="GOA RADIO",FM RAINBOW🌈 105.4
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio048/chunklist.m3u8
 #EXTINF:0 tvg-id="FM RAINBOW" group-title="GOA RADIO",AIR Panjim
